@@ -1,10 +1,10 @@
 [package]
 name = "rmpfit"
-version = "0.2.0"
-authors = ["Vadim Dyadkin <dyadkin@3lp.cx>"]
-edition = "2018"
+version = "0.3.0"
+authors = ["Icxolu <10486322+Icxolu@users.noreply.github.com>", "Vadim Dyadkin <dyadkin@3lp.cx>"]
+edition = "2021"
 description = "Pure Rust implementation of the CMPFIT library"
-repository = "https://git.3lp.cx/dyadkin/rmpfit"
+repository = "https://github.com/Icxolu/rmpfit"
 license = "MIT"
 keywords = ["Levenberg-Marquardt", "least-squares", "fit"]
 
